@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Ha d’haver com a mínim un autor per llibre
+• La dada idioma és obligatòria
+• La moneda de pagament ha de ser l’euro
+• L’any no és obligatori-->
+<!DOCTYPE llibreria [
+    <!ELEMENT llibreria (llibre)>
+    <!ELEMENT llibre (titol, autor, editorial, any, preu)>
+    <!ATTLIST titol idioma CDATA #REQUIRED>
+    <!ELEMENT titol (#PCDATA)>
+    <!ELEMENT editorial (#PCDATA)>
+    <!ELEMENT any (#PCDATA)>
+    <!ATTLIST preu moneda CDATA #REQUIRED>
+    <!ELEMENT preu (#PCDATA)>
+    <!ELEMENT autor (nom, cognom)>
+    <!ELEMENT nom (#PCDATA)>
+    <!ELEMENT cognom (#PCDATA)>
+]>
+<llibreria>
+    <llibre>
+        <titol idioma="Català">El millor dels mons</titol>
+        <autor>
+            <nom>Quim</nom>
+            <cognom>Monzo</cognom>
+        </autor>
+        <editorial>Quaderns Crema</editorial>
+        <any>2001</any>
+        <preu moneda="€">28,50</preu>
+    </llibre>
+</llibreria>

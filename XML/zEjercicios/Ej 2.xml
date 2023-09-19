@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+<Esdeveniment>
+<tipus>Aniversari</tipus >
+ <DATA>
+<dia>08</dia>
+<mes>05</mes>
+<any></any>
+</DATA>
+ <hora>
+<dia>08</dia>
+<mes>05</mes>
+<any></any>
+</hora>
+</Esdeveniment>
+</agenda>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cinema [
+ <!ELEMENT films (film)*>
+ <!ELEMENT film (#PCDATA)>
+ <!ATTLIST film code ID (F001 | F002 | F003 | F004) "F000">
+ <!ELEMENT actors (actor)*>
+ <!ELEMENT actor (#PCDATA)>
+ <!ATTLIST actor cinematography IDREF #REQUIRED>
+]>
+<cinema>
+ <films>
+ <film>Avatar</film>
+ <film code="F001">Gran Torino</film>
+ <film code="F002">Invictus</film>
+ <film code="F003">Million dollar baby</film>
+ <film code="F004">Oblivion</film>
+ <film code="F005">Unforgiven</film>
+ </films>
+ <actors>
+ <actor cinematography="F001 F003 F005">Clint Eastwood</actor>
+ <actor cinematography="F002 F003 F004 F005">Morgan Freeman</actor>
+ <actor cinematography="F004">Tom Cruise</actor>
+ </actors>
+</cinema>

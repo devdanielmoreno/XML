@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<llibres>
+	<llibre>
+		<titol></titol>
+	<autor>
+		<nom></nom>
+		<cognom></cognom>
+	</autor>
+	<editorial></editorial>
+	<preu></preu>
+	</llibre>
+</llibres>

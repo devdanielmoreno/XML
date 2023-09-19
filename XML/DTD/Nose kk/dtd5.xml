@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sistemasolar [
+    <!ELEMENT sistemasolar (cos* | asteroide?)>
+    <!ELEMENT cos (planeta|satellite)>
+    <!ELEMENT planeta (#PCDATA)>
+    <!ELEMENT satellite (#PCDATA)>
+    <!ELEMENT asteroide (#PCDATA)>
+]>
+<sistemasolar>
+    <cos>
+        <planeta>Terra</planeta>
+        <satellite>Lluna</satellite>
+    </cos>
+    <asteroide>Ceres</asteroide>
+</sistemasolar>

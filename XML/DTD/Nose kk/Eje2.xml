@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gos [
+ <!ELEMENT gos (edat, nom, raca)>
+ <!ELEMENT edat (#PCDATA)>
+ <!ELEMENT nom (#PCDATA)>
+ <!ELEMENT raca EMPTY>
+]>
+<gos> 
+ <edat>2</edat>
+ <nom>tatanet</nom>
+ <raca></raca>
+</gos>

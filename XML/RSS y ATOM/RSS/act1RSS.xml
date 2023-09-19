@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>rfi.fr</title>
+<link>https://www.rfi.fr/es/</link>
+<description>Sitio de noticias mundial</description>
+<lastBuildDate>Mon, 13 Mar 2023 10:01:20 +0000 </lastBuildDate>
+<ttl>1600</ttl>
+<image>
+<url>https://s.rfi.fr/media/display/b99d491e-10c2-11ea-b1b6-005056bf7c53/w:980/p:16x9/f69ad2e65e314a07a463c6c3eb1fbff3dd3483bc.webp</url>
+<title>RFI - Noticias del mundo</title>
+<link>https://www.rfi.fr/es/</link>
+<width>48</width>
+<height>48</height>
+</image>
+<item>
+    <title>Cien años de soledad</title>
+    <description>Leer 'Cien años de soledad' para entender un siglo de cambio climático</description>
+    <link>https://www.rfi.fr/es/programas/vida-en-el-planeta/20230313-leer-cien-a%C3%B1os-de-soledad-para-entender-un-siglo-de-cambio-clim%C3%A1tico</link>
+    <pubDate>Mon, 13 Mar 2023 17:20:00 +0000 </pubDate>
+</item>
+<item>
+    <title>El nuevo primer ministro chino Li Qiang denuncia el ‘cerco y la represión’ de Estados Unidos</title>
+    <description>El primer ministro chino Li Qiang habla durante una rueda de prensa tras la sesión de clausura de la Asamblea Popular Nacional (APN), en el Gran Salón del Pueblo, en Pekín, China, el 13 de marzo de 2023.</description>
+    <link>https://s.rfi.fr/media/display/dc33b1f8-c199-11ed-b222-005056a90321/w:980/p:16x9/2023-03-13T031150Z_1964103372_RC2RSZ95WONO_RTRMADP_3_CHINA-PARLIAMENT-PREMIER.webp</link>
+    <pubDate>Mon, 13 Mar 2023 12:30:00 +0000 </pubDate>
+</item>
+<item>
+    <title>Lineker vuelve a la BBC tras ser apartado por criticar a Sunak aludiendo al nazismo</title>
+    <description>l presentador estrella había sido apartado el viernes de su programa deportivo Match of the Day que se emite todos los sábados desde hace 60 años y que Gary Lineker presenta desde 1999.</description>
+    <link>https://s.rfi.fr/media/display/0cd4f95a-c11a-11ed-930f-005056bf30b7/w:980/p:16x9/640dcf9462a0a_sipa-shutterstock40953923-000165.webp</link>
+    <pubDate>Mon, 13 Mar 2023 9:00:00 +0000 </pubDate>
+</item>
+</channel>
+</rss>

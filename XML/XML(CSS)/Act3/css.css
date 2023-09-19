@@ -1,0 +1,47 @@
+biblioteca{
+    display: table;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style:double;
+    padding: 10px;
+}
+biblioteca::before{
+    display: table-caption;
+    content: "B  I  B  L  I  O  T  E  C  A";
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid black;
+    background-color: lightblue;
+    letter-spacing: 20px;
+}
+llibre::before{
+    content: " " attr(isbn) ;
+    display: table-cell;
+    border: 1px solid black;
+    padding: 15px;
+    font-weight: bold;
+}
+llibre{
+    display: table-row;
+    padding: 15px;
+}
+titol, autor, preu,idioma,editorial{
+    display: table-cell;
+    border: 1px solid black;
+    padding: 15px;
+}
+titol{
+    font-weight: bold;
+}
+llibre:nth-child(3){
+    background-color:lightblue ;
+}
+stock{
+    display: none;
+}
+
+preu::after{
+    content: " " attr(moneda) ;
+}

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="css copy.css"?>
+<biblioteca>
+  <llibre id="01">
+    <titol>Problemas y ejercicios de análisis matemático</titol>
+    <isbn>9787443524872</isbn>
+    <autor>
+      <nom>Boris</nom>
+      <cognom>Demidovich</cognom>
+      <lloc_neix>Navahrudak</lloc_neix>
+      <data_neix>02/03/1906</data_neix>
+    </autor>
+    <data_pub any="1985"/>
+    <editorial>Paraninfo</editorial>
+    <idioma>Castellà</idioma>
+  </llibre>
+   <llibre id="02">
+    <titol>Alícia en terra de meravelles</titol>
+    <isbn>97845395632927</isbn>
+    <autor>
+      <nom>Lewis</nom>
+      <cognom>Carrol</cognom>
+      <lloc_neix>Daresbury</lloc_neix>
+      <data_neix>27/01/1832</data_neix>
+    </autor>
+    <data_pub any="1992"/>
+    <editorial>Joventut</editorial>
+    <idioma>Català</idioma>
+  </llibre>
+   <llibre id="03">
+    <titol>The Timeless Way of Building</titol>
+    <isbn>9781204623948</isbn>
+    <autor>
+      <nom>Christopher</nom>
+      <cognom>Alexander</cognom>
+      <lloc_neix>Viena</lloc_neix>
+      <data_neix>04/10/1936</data_neix>
+    </autor>
+    <data_pub any="1979"/>
+    <editorial>Oxford University Press</editorial>
+    <idioma>Anglès</idioma>
+  </llibre>
+     <llibre id="04">
+    <titol>Tirant lo blanc</titol>
+    <isbn>9789924373546</isbn>
+    <autor>
+      <nom>Joanot</nom>
+      <cognom>Martorell</cognom>
+      <lloc_neix>Gandia</lloc_neix>
+      <data_neix>1410</data_neix>
+    </autor>
+    <data_pub any="2010"/>
+    <editorial>La Magrana</editorial>
+    <idioma>Català</idioma>
+  </llibre>
+  <llibre id="06">
+    <titol>Unterm Rad</titol>
+    <isbn>9787746353601</isbn>
+    <autor>
+      <nom>Hermann</nom>
+      <cognom>Hesse</cognom>
+      <lloc_neix>Calw</lloc_neix>
+      <data_neix>02/07/1877</data_neix>
+    </autor>
+    <data_pub any="1972"/>
+    <editorial>Suhrkamp</editorial>
+    <idioma>Alemany</idioma>
+  </llibre>
+  <llibre id="07">
+    <titol>Edmon</titol>
+    <isbn>9786657392800</isbn>
+    <autor>
+      <nom>Alfons</nom>
+      <cognom>Maseras</cognom>
+      <lloc_neix>Sant Jaume dels Domenys</lloc_neix>
+      <data_neix>23/02/1884</data_neix>
+    </autor>
+    <data_pub any="1908"/>
+    <editorial>E. Domenech Impressor</editorial>
+    <idioma>Català</idioma>
+  </llibre>
+  <llibre id="10">
+    <titol>High Fidelity</titol>
+    <autor>
+      <nom>Nick</nom>
+      <cognom>Hornby</cognom>
+      <lloc_neix>Redhill</lloc_neix>
+      <data_neix>17/04/1957</data_neix>
+    </autor>
+    <data_pub any="2011"/>
+    <editorial>Penguin Books</editorial>
+    <idioma>Anglès</idioma>
+  </llibre>
+    <llibre id="11">
+    <titol>A Long Way Down</titol>
+    <autor>
+      <nom>Nick</nom>
+      <cognom>Hornby</cognom>
+      <lloc_neix>Redhill</lloc_neix>
+      <data_neix>17/04/1957</data_neix>
+    </autor>
+    <data_pub any="2005"/>
+    <editorial>Penguin Books</editorial>
+    <idioma>Anglès</idioma>
+  </llibre>
+</biblioteca>

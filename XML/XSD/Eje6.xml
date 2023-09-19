@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Eje6.xsd">
+<usuaris>
+<usuari>
+<nom>juliams</nom>
+<contrasenya>Kj895S</contrasenya>
+</usuari>
+<usuari>
+<nom>carles3</nom>
+<contrasenya>123456</contrasenya>
+</usuari>
+</usuaris>
+</persones>

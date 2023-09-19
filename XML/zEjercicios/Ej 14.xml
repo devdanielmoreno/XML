@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipo_de_futbol>
+	<equipo>
+		<nom></nom>
+		<ciutat></ciutat>
+		<entrenador></entrenador>
+	</equipo>
+	<jugador posicio="mitg">
+		<nom></nom>
+		<numero></numero>
+	</jugador>
+	<jugador posicio="porter">
+		<nom></nom>
+		<numero></numero>
+	</jugador>
+	<jugador posicio="defensa">
+		<nom></nom>
+		<numero></numero>
+	</jugador>
+</equipo_de_futbol>

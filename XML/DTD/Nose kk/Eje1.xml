@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE especialitats [
+<!ELEMENT especialitats (especialitat+)>
+<!ELEMENT especialitat (#PCDATA)>
+]>
+<especialitats>
+ <especialitat>ASIX</especialitat>
+ <especialitat>DAM</especialitat>
+ <especialitat>DAW</especialitat>
+</especialitats>

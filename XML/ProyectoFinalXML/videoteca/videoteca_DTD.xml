@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE videoteca SYSTEM "videoteca.dtd">
+<videoteca>
+    <pelicula codi="DANAADWA-12335">
+        <titol idioma="Castellano">Troll</titol>
+        <durada>101</durada>
+        <any>2022</any>
+        <nacionalitat>Noruega</nacionalitat>
+        <genere>Acción, Aventuras, Fantástico, Thriller, Drama, Monstruos</genere>
+        <classificació>12</classificació>
+        <sinopsi>En lo profundo de la montaña Dovre, algo gigantesco se despierta después de mil años de cautiverio. La criatura destruye todo a su paso y se acerca rápidamente a Oslo.</sinopsi>
+        <director>
+            <nom>Roar</nom>
+            <cognom>Uthaug</cognom>
+            <any_naixement>25/08/1973</any_naixement>
+        </director>
+        <actors>
+            <nom>Ine Marie</nom>
+            <cognom>Wilmann</cognom>
+        </actors>
+        <suports>Blu-Ray</suports>
+        <data_compra>05/10/2022</data_compra>
+        <preu_compra>30€</preu_compra>
+    </pelicula>
+
+    <pelicula codi="DANAADWA-12214">
+        <titol idioma="Castellano">Slumberland</titol>
+        <durada>117</durada>
+        <any>2022</any>
+        <nacionalitat>Estados Unidos</nacionalitat>
+        <genere>Aventuras, Fantástico, Ciencia,ficción, Comedia, Cine familiar</genere>
+        <classificació>7</classificació>
+        <sinopsi>Una niña busca a su padre, desaparecido en un místico país de los sueños, con la ayuda de una gran criatura mitad hombre y mitad monstruo.</sinopsi>
+        <director>
+            <nom>Francis</nom>
+            <cognom>Lawrence</cognom>
+            <any_naixement>26/05/1971</any_naixement>
+        </director>
+        <actors>
+            <nom>Jason</nom>
+            <cognom>Momoa</cognom>
+        </actors>
+        <suports>DVD</suports>
+        <data_compra>14/03/2022</data_compra>
+        <preu_compra>20€</preu_compra>
+    </pelicula>
+
+    <pelicula codi="DANAADWA-123324">
+        <titol idioma="Castellano">Jaula</titol>
+        <durada>106</durada>
+        <any>2022</any>
+        <nacionalitat>España</nacionalitat>
+        <genere>Intriga,Thriller,Drama,Familia</genere>
+        <classificació>16</classificació>
+        <sinopsi>Paula (Elena Anaya) y su marido (Pablo Molinero) regresan en coche de una cena. Repentinamente, se topan con una niña (Eva Tennear) deambulando sola por la carretera. Dos semanas más tarde, tras conocer que nadie la reclama, deciden acogerla en su casa temporalmente y así también dar un giro a su vida de pareja.</sinopsi>
+        <director>
+            <nom>Ignacio</nom>
+            <cognom>Tatay</cognom>
+            <any_naixement>14/08/1980</any_naixement>
+        </director>
+        <actors>
+            <nom>Elena</nom>
+            <cognom>Anaya</cognom>
+        </actors>
+        <suports>Blu-Ray</suports>
+        <data_compra>12/10/2022</data_compra>
+        <preu_compra>20€</preu_compra>
+    </pelicula>
+
+    <pelicula codi="DANAADWA-12325">
+        <titol idioma="Castellano">Bajocero</titol>
+        <durada>106</durada>
+        <any>2021</any>
+        <nacionalitat>España</nacionalitat>
+        <genere>thriller, intriga</genere>
+        <classificació>16</classificació>
+        <sinopsi>En una fría noche cerrada de invierno, en mitad de una carretera despoblada, un furgón policial blindado es asaltado durante un traslado de presos. Alguien busca a alguien de su interior. Martín, el policía conductor del furgón, consigue atrincherarse dentro del cubículo blindado con los reclusos. Obligado a entenderse con sus enemigos naturales, Martín tratará de sobrevivir y cumplir con su deber en una larga noche de pesadilla en el que se pondrán a prueba incluso sus principios</sinopsi>
+        <director>
+            <nom>Lluís</nom>
+            <cognom>Quílez</cognom>
+            <any_naixement>8/12/1978</any_naixement>
+        </director>
+        <actors>
+            <nom>Javier</nom>
+            <cognom>Guitierrez</cognom>
+        </actors>
+        <suports>DVD</suports>
+        <data_compra>12/12/2022</data_compra>
+        <preu_compra>25€</preu_compra>
+    </pelicula>
+
+    <pelicula codi="DANAADWA-12545">
+        <titol idioma="Castellano">The Stranger</titol>
+        <durada>117</durada>
+        <any>2022</any>
+        <nacionalitat>Australia</nacionalitat>
+        <genere>Thriller, suspens</genere>
+        <classificació>16</classificació>
+        <sinopsi>Un policía infiltrado creará una intensa e íntima relación con un sospechoso de asesinato para ganarse su confianza e intentar sacarle una confesión.</sinopsi>
+        <director>
+            <nom>Thomas</nom>
+            <cognom> Michael Wright </cognom>
+            <any_naixement>22/6/1983</any_naixement>
+        </director>
+        <actors>
+            <nom>joel</nom>
+            <cognom>edgerton</cognom>
+        </actors>
+        <suports>Blu-ray</suports>
+        <data_compra>24/09/2021</data_compra>
+        <preu_compra>20€</preu_compra>
+    </pelicula>
+
+    <pelicula codi="DANAADWA-45335">
+        <titol idioma="Castellano">Reyes contra Santa</titol>
+        <durada>104</durada>
+        <any>2022</any>
+        <nacionalitat>España</nacionalitat>
+        <genere>Comedia, Fantasia</genere>
+        <classificació>7</classificació>
+        <sinopsi>Los Reyes Magos, hartos de que Santa les quite cada vez más protagonismo, han decidido enfrentarse sin saber que esa guerra despertará a un enemigo común mucho más peligroso, el Krampus, que llevaba siglos inactivo.</sinopsi>
+        <director>
+            <nom>Paco</nom>
+            <cognom>Caballero</cognom>
+            <any_naixement>24/04/1990</any_naixement>
+        </director>
+        <actors>
+            <nom>Karra</nom>
+            <cognom>Elajalde</cognom>
+        </actors>
+        <suports>DVD</suports>
+        <data_compra>20/10/2022</data_compra>
+        <preu_compra>15€</preu_compra>
+    </pelicula>
+</videoteca>

@@ -1,0 +1,32 @@
+cataleg{
+    display: table;
+    border: 2px solid black;
+}
+cataleg::before{
+    display: table-caption;
+    content: "Tabla";
+    padding: 200px;
+}
+llibre{
+    display: table-row;
+    padding: 15px;
+}
+llibre:nth-child(even){
+    background-color:palevioletred ;
+}
+llibre:nth-child(odd){
+    background-color:plum ;
+}
+titol, autor, preu{
+    display: table-cell;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+stock{
+    display: none;
+}
+
+preu::after{
+    content: " " attr(moneda) ;
+}

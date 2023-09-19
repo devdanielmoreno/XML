@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+<llibre codi="AA90-36476">
+<autor>
+<nom>Elizabeth</nom>
+<cognom>Castro</cognom>
+</autor>
+<titol>XML fot the world wide web</titol>
+<edicio num_edicio="" idioma="anglés" moneda="€">
+<editorial></editorial>
+<any>2001</any>
+</edicio>
+<preu>30</preu>
+</llibre>
+</biblioteca>

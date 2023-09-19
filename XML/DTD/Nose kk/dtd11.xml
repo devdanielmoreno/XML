@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE socis [
+ <!ELEMENT socis (soci*)> 
+ <!ELEMENT soci ((num | clau)?nom,edat ?)>
+ <!ELEMENT num (#PCDATA)>
+ <!ELEMENT clau (#PCDATA)>
+ <!ELEMENT nom (#PCDATA)>
+ <!ELEMENT edat (#PCDATA)>
+]>
+<socis>
+ <soci>
+ <nom>Pere</nom>
+ <edat>21</edat>
+ </soci>
+ <soci>
+ <num>327</num>
+ <nom>Toni</nom>
+ <edat>23</edat>
+ </soci>
+ <soci>
+ <clau>NS18002</clau>
+ <nom>Laura</nom>
+ </soci>
+</socis>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>El Pais</title>
+<subtitle>EL PERIODICO GLOBAL</subtitle>
+<link href="https://static.elpais.com/dist/resources/images/logos/primary/el-pais.svg" rel="self" />
+<link href="https://elpais.com/" />
+<id>urn:uuid:60a76c80-d399-11d9-b91D-eqds43</id>
+<updated>2023-03-13T18:30:02Z</updated>
+<entry>
+<title>Biden, tras la quiebra de dos bancos: “El sistema es sólido. Sus depósitos están seguros”</title>
+<link href="https://elpais.com/economia/2023-03-13/biden-tras-la-quiebra-de-silicon-valley-bank-y-signature-el-sistema-bancario-es-solido-sus-depositos-estan-seguros.html" />
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da34refsdsa6a</id>
+<updated>2023-03-13T12:30:02Z</updated>
+<summary>El presidente de Estados Unidos, Joe Biden, ha lanzado este lunes un mensaje de tranquilidad sobre la solidez del sistema bancario tras la quiebra de dos bancos, Silicon Valley Bank (SVB) y Signature, en tres días.</summary>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>El presidente de EE UU ha lanzado un mensaje de tranquilidad tras la quiebra de dos bancos en tres días </p>
+</div>
+</content>
+<author>
+<name>Macarena Vidal Liy</name>
+<email>MacarenaVidalLiy@example.com</email>
+</author>
+
+<title>La original 'Todo a la vez en todas partes' rompe los esquemas en los Oscar con siete premios</title>
+<link href="https://elpais.com/cultura/premios-oscar/2023-03-13/todo-a-la-vez-en-todas-partes-triunfa-en-la-noche-de-los-oscar-2023.html" />
+<id>urn:uuid:1324225c695-gfb8-432ed-aaaa-80da34rrefsdsa6a</id>
+<updated>2023-03-13T10:30:02Z</updated>
+<summary>La película sobre el multiverso del estudio A24 obtiene los galardones al mejor filme, dirección y montaje, entre otros. Michelle Yeoh y Brendan Fraser, mejores intérpretes protagonistas. La alemana 'Sin novedad en el frente' conquista cuatro estatuillas</summary>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>Cuando arrancó la noche de los Oscar se pensaba que una película iba a arrasar en su 95ª edición. Al final no ha sido una, sino dos cintas, las que han dominado de principio a fin la velada grande de Hollywood: Todo a la vez en todas partes y Sin novedad en el frente. </p>
+</div>
+</content>
+<author>
+<name>Luis Pablo Beauregard</name>
+<email>LuisPabloBeauregard@example.com</email>
+</author>
+
+<title>La alfombra roja de los Premios Oscar 2023</title>
+<link href="https://smoda.elpais.com/moda/la-alfombra-roja-2023-de-los-premios-oscar-en-directo/" />
+<id>urn:uuid:13fdc695-gfb8-432ed-23aa-80defsdsa6a</id>
+<updated>2023-03-13T17:30:02Z</updated>
+<summary>Analizamos los 'looks' elegidos por los protagonistas de la edición 95ª de los premios de la Academia de Cine de Hollywood. 'Todo a la vez en todas partes' ha sido la gran triunfadora de la noche, con siete estatuillas.</summary>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>Ana de Armas, nominada a mejor actriz protagonista por su papel en Blonde 'donde hace de Marilyn Monroe', a su llegada a la alfombra roja (que este año era de color champán) de los Oscar. Para la ocasión, la actriz se decantó por un vestido con cola de volantes de Louis Vuitton.</p>
+</div>
+</content>
+<author>
+<name>Ana Regina García</name>
+<email>AnaReginaGarcía@example.com</email>
+</author>
+</entry>
+</feed>

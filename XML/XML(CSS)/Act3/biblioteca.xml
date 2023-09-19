@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="css.css"?>
+<biblioteca>
+  <llibre isbn="978-8428300490">
+    <titol>Problemas y ejercicios de análisis matemático</titol>
+    <autor>
+      <nom>Boris</nom>
+      <cognom>Demidovich</cognom>
+      <lloc_neix>Navahrudak</lloc_neix>
+      <data_neix>02/03/1906</data_neix>
+    </autor>
+    <data_pub any="1985"/>
+    <editorial>Paraninfo</editorial>
+    <idioma>Castellà</idioma>
+    <preu moneda="€">31,50</preu>
+  </llibre>
+  <llibre isbn="978-8426156648">
+    <titol>Alícia en terra de meravelles</titol>
+    <autor>
+      <nom>Lewis</nom>
+      <cognom>Carrol</cognom>
+      <lloc_neix>Daresbury</lloc_neix>
+      <data_neix>27/01/1832</data_neix>
+    </autor>
+    <data_pub any="1992"/>
+    <editorial>Joventut</editorial>
+    <idioma>Català</idioma>
+    <preu moneda="€">37,25</preu>
+  </llibre>
+  <llibre isbn="978-0195024029">
+    <titol>The Timeless Way of Building</titol>
+    <autor>
+      <nom>Christopher</nom>
+      <cognom>Alexander</cognom>
+      <lloc_neix>Viena</lloc_neix>
+      <data_neix>04/10/1936</data_neix>
+    </autor>
+    <data_pub any="1979"/>
+    <editorial>Oxford University Press</editorial>
+    <idioma>Anglès</idioma>
+    <preu moneda="€">24,50</preu>
+  </llibre>
+  <llibre isbn="978-8476600580">
+    <titol>Tirant lo blanc</titol>
+    <autor>
+      <nom>Joanot</nom>
+      <cognom>Martorell</cognom>
+      <lloc_neix>Gandia</lloc_neix>
+      <data_neix>1410</data_neix>
+    </autor>
+    <data_pub any="2010"/>
+    <editorial>La Magrana</editorial>
+    <idioma>Català</idioma>
+    <preu moneda="€">43,00</preu>
+  </llibre>
+  <llibre isbn="978-3518188347">
+    <titol>Unterm Rad</titol>
+    <autor>
+      <nom>Hermann</nom>
+      <cognom>Hesse</cognom>
+      <lloc_neix>Calw</lloc_neix>
+      <data_neix>02/07/1877</data_neix>
+    </autor>
+    <data_pub any="1972"/>
+    <editorial>Suhrkamp</editorial>
+    <idioma>Alemany</idioma>
+    <preu moneda="€">11,75</preu>
+  </llibre>
+  <llibre isbn="978-8472563339">
+    <titol>Edmon</titol>
+    <autor>
+      <nom>Alfons</nom>
+      <cognom>Maseras</cognom>
+      <lloc_neix>Sant Jaume dels Domenys</lloc_neix>
+      <data_neix>23/02/1884</data_neix>
+    </autor>
+    <data_pub any="1908"/>
+    <editorial>E. Domenech Impressor</editorial>
+    <idioma>Català</idioma>
+    <preu moneda="€">19,50</preu>
+  </llibre>
+  <llibre isbn="978-0241981214">
+    <titol>High Fidelity</titol>
+    <autor>
+      <nom>Nick</nom>
+      <cognom>Hornby</cognom>
+      <lloc_neix>Redhill</lloc_neix>
+      <data_neix>17/04/1957</data_neix>
+    </autor>
+    <data_pub any="2011"/>
+    <editorial>Penguin Books</editorial>
+    <idioma>Anglès</idioma>
+    <preu moneda="€">16,20</preu>
+  </llibre>
+  <llibre isbn="978-0241969939">
+    <titol>A Long Way Down</titol>
+    <autor>
+      <nom>Nick</nom>
+      <cognom>Hornby</cognom>
+      <lloc_neix>Redhill</lloc_neix>
+      <data_neix>17/04/1957</data_neix>
+    </autor>
+    <data_pub any="2005"/>
+    <editorial>Penguin Books</editorial>
+    <idioma>Anglès</idioma>
+    <preu moneda="€">19,50</preu>
+  </llibre>
+</biblioteca>

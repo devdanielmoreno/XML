@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca [
+    <!ELEMENT biblioteca (llibre+)>
+    <!ELEMENT llibre (titol, autor+, data_pub, editorial, idioma, preu)>
+    <!ATTLIST llibre isbn ID #REQUIRED>
+    <!ELEMENT titol (#PCDATA)>
+    <!ELEMENT autor (nom, cognom, data_naix*, lloc_naix*)>
+    <!ELEMENT nom (#PCDATA)>
+    <!ELEMENT cognom (#PCDATA)>
+    <!ELEMENT data_naix (#PCDATA)>
+    <!ELEMENT lloc_naix (#PCDATA)>
+    <!ELEMENT data_pub (#PCDATA)>
+    <!ATTLIST data_pub any CDATA #REQUIRED>
+    <!ELEMENT editorial (#PCDATA)>
+    <!ENTITY edome "E. Domenech Impressor">
+    <!ENTITY paran "Paraninfo">
+    <!ELEMENT idioma (#PCDATA)>
+    <!ELEMENT preu (#PCDATA)>
+    <!ATTLIST preu moneda CDATA ( € | $ | £ ) "€">
+]>
+<biblioteca>
+    <llibre isbn="isbn-978-8472563339">
+        <titol>Edmon</titol>
+        <autor>
+            <nom>Alfons</nom>
+            <cognom>Maseras</cognom>
+            <data_naix>23/02/1884</data_naix>
+            <lloc_naix>Sant Jaume dels Domenys</lloc_naix>
+        </autor>
+        <data_pub any="1908"></data_pub>
+        <editorial>&edome;</editorial>
+        <idioma>Català</idioma>
+        <preu moneda="€">64</preu>
+    </llibre>
+
+    <llibre isbn="978-8428300490">
+        <titol>Problemas y ejercicios de análisis matematico</titol>
+        <autor>
+            <nom>Boris</nom>
+            <cognom>Demidovich</cognom>
+            <data_naix>02/03/1906</data_naix>
+            <lloc_naix>Navahrudak</lloc_naix>
+        </autor>
+        <data_pub any="1985"></data_pub>
+        <editorial>&paran;</editorial>
+        <idioma>Castellà</idioma>
+        <preu moneda="€">33</preu>
+    </llibre>
+</biblioteca>

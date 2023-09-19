@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+ <!DOCTYPE musica  SYSTEM "musica.dtd">
+<musica>
+    <registro>
+        <info suport="digital" autor="Drake" album="Honestly, Nevermind" data_edi="18 abrol" genere="Hip-Hop">
+        <año>2022</año>
+        <precio>18,32€</precio>
+        </info>
+    </registro>
+
+    <registro>
+        <info suport="digital" autor="Shakira" album="El Dorado" data_edi="12 mayo" genere="Pop">
+        <año>2017</año>
+        <precio>6,99€</precio>
+        </info>
+    </registro> 
+
+    <registro>
+        <info suport="digital" autor="Justin Bieber" album="Justice" data_edi="19 de marzo" genere="Pop">
+        <año>2021</año>
+        <precio>11.49€</precio>
+        </info>
+    </registro>
+    
+    <registro>
+        <info suport="digital" autor="Billie Eilish" album="Happier Than Ever" data_edi="30 de julio" genere="Pop"> 
+        <año>2021</año>
+        <precio>11.66€</precio>
+        </info>
+    </registro>
+</musica>

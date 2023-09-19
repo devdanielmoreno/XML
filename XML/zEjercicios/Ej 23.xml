@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fets_historics>
+<fet>
+<descripció>Mort de Carlemany </descripció>
+<data>
+<dia>8</dia>
+<mes>1</mes>
+<any>814</any>
+</data>
+</fet>
+<fet>
+<descripció>Final de la segona guerra mundial</descripció>
+<data>
+<dia>8</dia>
+<mes>5</mes>
+<any>1945</any>
+</data>
+</fet>
+<fet>
+<descripció>L’home arriba a la Lluna </descripció>
+<data>
+<dia>20</dia>
+<mes>7</mes>
+<any>1969</any>
+</data>
+</fet>
+</fets_historics>

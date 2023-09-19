@@ -1,0 +1,74 @@
+biblioteca{
+    margin: 1%;
+}
+llibre{   
+    border: 2px solid;
+    width: 400px;
+    height: 250px;
+    display: block;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-left: 20px ;
+    float: left;
+}
+isbn{
+    display: none;
+}
+titol{
+    display: block;
+    padding-top: 15px;
+    background-color:black ;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    
+}
+autor::before{
+    content: "Autor:";
+    font-weight: bold;
+}
+autor{
+    display: block;
+    background-color:lightblue;
+    margin: 3px;
+	padding: 10px;
+    text-align: left;
+}
+nom{
+    display: block;
+    text-align: center;
+}
+cognom{
+    display: block;
+    text-align: center;
+}
+lloc_neix{
+	display: block;
+    text-align: center;
+}
+data_neix{
+	display: block;
+    text-align: center;
+}
+data_pub::before{
+    content:"Any de Publicació: ";
+    font-weight: bold;
+}
+data_pub{
+    display: block;
+}
+data_pub::after{
+	content:" " attr(any);	
+}
+editorial::before{
+	content:"Editorial: ";
+	font-weight: bold;      
+}
+idioma{
+    display: block;
+}
+idioma::before{
+   content:"Idioma: ";
+   font-weight: bold;
+}

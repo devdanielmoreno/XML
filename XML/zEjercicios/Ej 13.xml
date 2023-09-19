@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esdeveniment>
+	<nom_esdeveniment>La Merce</nom_esdeveniment>
+	<lloc_esdeveniment>Bacelona</lloc_esdeveniment>
+	<data dia="2" mes="octubre" any="2022" hora="17" minut="23"></data>
+</esdeveniment>

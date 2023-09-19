@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tennis [
+ <!ELEMENT tennis (player*)>
+ <!ELEMENT player EMPTY>
+ <!ATTLIST player name NMTOKENS #REQUIRED>
+ <!ATTLIST player code ID #REQUIRED>
+]>
+<tennis>
+ <player name="Roger Federer" code="B101"/>
+ <player name="Peter Sampras - Pete Sampras" code="B128" />
+ <player name="Bjorn Borg" code="B331" />
+ <player name="Rafael Nadal" code="B487" />
+</tennis>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE periferics [
+<!ELEMENT periferics (periferic)*>
+<!ELEMENT periferic ((codi | nom), preu)>
+<!ELEMENT codi (#PCDATA)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT preu (#PCDATA)>
+]>
+<periferics>
+<periferic>
+<codi>TG-M003A</codi>
+<preu>8</preu>
+<nom>Ratolí</nom>
+</periferic>
+<periferic>
+<preu>6</preu>
+</periferic>
+</periferics>

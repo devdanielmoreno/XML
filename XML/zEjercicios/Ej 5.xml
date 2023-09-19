@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda SYSTEM "agenda.dtd">
+<!--document bassat en vCard 3.0 -->
+<agenda>
+<entrada>
+<nom>Marta Baulenes</nom>
+</entrada>
+<adreça>
+<carrer> St. Antoni</carrer>
+<població>Calella</població>
+<codi_postal>08370</codi_postal>
+</adreça>
+<tel>942201363</tel>
+</agenda>

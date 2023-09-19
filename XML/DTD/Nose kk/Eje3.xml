@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE viatges [
+ <!ELEMENT viatges (franca, portugal, italia)>
+ <!ELEMENT franca (ciutat+)>
+ <!ELEMENT portugal (ciutat+)>
+ <!ELEMENT italia (ciutat?)>
+ <!ELEMENT ciutat (#PCDATA)>
+]>
+
+<viatges>
+<franca>
+  <ciutat>lion</ciutat>
+  <ciutat>marseille</ciutat>
+  <ciutat>perpignan</ciutat>
+</franca>
+<portugal>
+  <ciutat>oporto</ciutat>
+  <ciutat>lisboa</ciutat>
+  <ciutat>portugal</ciutat>
+</portugal>
+<italia></italia>
+</viatges>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="videoteca">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" name="pelicula">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="titol">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="idioma" type="xs:string"/>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element type="xs:integer" name="durada"/>
+                            <xs:element type="xs:integer" name="any"/>
+                            <xs:element type="xs:string" name="nacionalitat"/>
+                            <xs:element type="xs:string" name="genere"/>
+                            <xs:element type="xs:integer" name="classificació"/>
+                            <xs:element type="xs:string" name="sinopsi"/>
+                            <xs:element name="director">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element type="xs:string" name="nom"/>
+                                        <xs:element type="xs:string" name="cognom"/>
+                                        <xs:element type="xs:string" name="any_naixement"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="actors">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element type="xs:string" name="nom"/>
+                                        <xs:element type="xs:string" name="cognom"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element type="xs:string" name="suports"/>
+                            <xs:element type="xs:string" name="data_compra"/>
+                            <xs:element type="xs:string" name="preu_compra"/>
+                        </xs:sequence>
+                        <xs:attribute name="codi" type="xs:string"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

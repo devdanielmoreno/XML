@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- mitjans de transport -->
+<mitjans>
+<terrestres>
+<vehicle>bicicleta</vehicle>
+<vehicle>cotxe</vehicle>
+<vehicle>patinet</vehicle>
+</terrestres>
+<aquàtics>
+<vehicle>vaixell</vehicle>
+<aeris>
+<vehicle>avioneta</vehicle>
+<vehicle>helicòpter</vehicle>
+</aeris>
+</aquàtics>
+</mitjans>

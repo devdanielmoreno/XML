@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE videoteca [
+<!ELEMENT videoteca (pelicula+)>
+<!ELEMENT pelicula (titol,durada,any,nacionalitat,genere,classificació,sinopsi,director,actors+,suports,data_compra,preu_compra)>
+<!ATTLIST pelicula codi ID #REQUIRED>
+<!ELEMENT titol (#PCDATA)>
+<!ATTLIST titol idioma  CDATA #REQUIRED>
+<!ELEMENT durada (#PCDATA)>
+<!ELEMENT any (#PCDATA)>
+<!ELEMENT nacionalitat (#PCDATA)>
+<!ELEMENT genere (#PCDATA)>
+<!ELEMENT classificació (#PCDATA)>
+<!ELEMENT sinopsi (#PCDATA)>
+<!ELEMENT director (nom,cognom,any_naixement)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT cognom (#PCDATA)>
+<!ELEMENT any_naixement (#PCDATA)>
+<!ELEMENT actors (nom,cognom)>
+<!ELEMENT suports (#PCDATA)>
+<!ELEMENT data_compra (#PCDATA)>
+<!ELEMENT preu_compra (#PCDATA)>
+]>

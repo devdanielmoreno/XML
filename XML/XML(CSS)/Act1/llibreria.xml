@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet href="css.css"?>
+<cataleg> 
+  <llibre isbn="978-8420531519">
+    <titol>XML Guía de Aprendizaje</titol> 
+    <autor>Elizabeth Castro</autor> 
+    <preu moneda="€">30</preu> 
+    <stock>Sí</stock>
+  </llibre>
+  <llibre isbn="978-1932690453">
+    <titol>XML in a Nutshell</titol> 
+    <autor>Elliotte Rusty Harold</autor> 
+    <preu moneda="€">36</preu>
+    <stock>Sí</stock> 
+  </llibre>
+    <llibre isbn="978-0596004200">
+    <titol>Learning XML</titol> 
+    <autor>Erik T. Rayl</autor> 
+    <preu moneda="€">35</preu>
+    <stock>Sí</stock> 
+  </llibre>
+    <llibre isbn="978-9702601630">
+    <titol>XML con ejemplos</titol> 
+    <autor>Benoit Marchal</autor> 
+    <preu moneda="€">45</preu>
+    <stock>No</stock> 
+  </llibre>
+  <llibre>
+    <titol>XML for Dummies</titol> 
+    <autor>Ed Tittel</autor> 
+    <preu moneda="€">21</preu>
+    <stock>No</stock> 
+  </llibre>
+</cataleg>

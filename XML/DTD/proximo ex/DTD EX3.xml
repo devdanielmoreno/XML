@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--L’element vol ha d’aparèixer com a mínim un cop
+L’element diari va buit
+L’estat del vols pot ser C, E i R
+El codi del vol és obligatori
+El valor del codi és un identificador únic-->
+<!DOCTYPE aeroport [
+    <!ELEMENT aeroport (nom, vols, data)>
+    <!ELEMENT nom (#PCDATA)>
+    <!ELEMENT data (#PCDATA)>
+    <!ELEMENT vols (vol+)>
+    <!ELEMENT vol (diari?, origen, desti, sortida, arribada)>
+    <!ATTLIST vol codi ID #REQUIRED>
+    <!ATTLIST vol estat (C | E | R) "E">
+    <!ELEMENT diari EMPTY>
+    <!ELEMENT origen (#PCDATA)>
+    <!ELEMENT desti (#PCDATA)>
+    <!ELEMENT sortida (#PCDATA)>
+    <!ELEMENT arribada (#PCDATA)>
+]>
+
+<aeroport>
+    <nom>JFK</nom>
+    <vols>
+        <vol codi="V22" estat="R">
+            <diari />
+            <origen>New York</origen>
+            <desti>Chicago</desti>
+            <sortida>9:30</sortida>
+            <arribada>11:30</arribada>
+        </vol>
+        <vol codi="V23" estat="C">
+            <origen>New York</origen>
+            <desti>Miami</desti>
+            <sortida>10:15</sortida>
+            <arribada>11:15</arribada>
+        </vol>
+    </vols>
+    <data>20/12/2013</data>
+</aeroport>

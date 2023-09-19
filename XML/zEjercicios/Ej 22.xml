@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<missatge>
+<remitent>
+<nom>Eva</nom>
+<email>eva.casals@yahoo.com</email>
+</remitent>
+<destinatari>
+<nom>Carolina</nom>
+<email>carmas@mymail.com</email>
+</destinatari>
+<assumpte>Visita dijous</assumpte>
+<text>
+<paragraf>Et confitmo la visita de dimarts</paragraf>
+</text>
+</missatge>
